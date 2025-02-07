@@ -87,7 +87,7 @@ Developed in equal partnership with **Max Wolffe** (NCSU College of Engineering 
 1. [Download MARS 4.5 Simulator](http://courses.missouristate.edu/kenvollmar/mars/download.htm)
 2. Clone repository:
    ```bash
-   git clone https://github.com/[your-username]/mips-tictactoe.git
+   git clone https://github.com/TurnerKlapheke/mips-tictactoe.git
 3. Launch MARS and open tictactoe.asm
 4. Assemble (Ctrl+R) and Run (F5)
 
