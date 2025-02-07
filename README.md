@@ -71,28 +71,6 @@ Created during my senior year at the [North Carolina School of Science and Mathe
 
 **Development Period**: January 2023
 
-## Technical Implementation
-
-### Core Architecture
-- **MIPS Assembly** base implementation
-- **MARS 4.5** simulator environment
-- **Memory-Mapped I/O** for display control
-- **System Calls** for I/O operations
-
-### Key Components
-1. **Board State Management**
-   - 3x3 matrix representation
-   - Bitmask optimization
-2. **AI Decision Engine**
-   - MiniMax algorithm adaptation
-   - Priority-based move selection
-3. **Display System**
-   - ASCII art rendering
-   - Console animation techniques
-4. **Input Handler**
-   - Keyboard polling routine
-   - Input validation subsystem
-
 ## Collaboration
 
 Developed in equal partnership with **Max Wolffe** (NCSU College of Engineering '28). Our collaborative workflow featured:
