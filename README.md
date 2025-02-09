@@ -88,7 +88,7 @@ Developed in equal partnership with **Max Wolff** (NCSU College of Engineering '
 2. Clone repository:
    ```bash
    git clone https://github.com/TurnerKlapheke/mips-tictactoe.git
-3. Launch MARS and open tictactoe.asm
+3. Launch MARS and open mips5_current.asm
 4. Assemble (Ctrl+R) and Run (F5)
 
 ### Controls
