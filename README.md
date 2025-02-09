@@ -67,20 +67,20 @@ Developed using the MARS (MIPS Assembler and Runtime Simulator) 4.5 environment,
 
 ## Development Context
 
-Created during my senior year at the [North Carolina School of Science and Mathematics](https://www.ncssm.edu) over a 3 week period as part of a J-Term Collaboration between myself and a peer **Max Wolffe** using pair programming methodology.
+Created during my senior year at the [North Carolina School of Science and Mathematics](https://www.ncssm.edu) over a 3 week period as part of a J-Term Collaboration between myself and a peer **Max Wolff** using pair programming methodology.
 
 **Development Period**: January 2023
 
 ## Collaboration
 
-Developed in equal partnership with **Max Wolffe** (NCSU College of Engineering '28). Our collaborative workflow featured:
+Developed in equal partnership with **Max Wolff** (NCSU College of Engineering '28). Our collaborative workflow featured:
 - **Version Control**: Manual change tracking via shared documentation
 - **Pair Programming**: Split focus between AI logic and UI components
 - **Testing Protocol**: Cross-verification of subsystem integrations
 
 **Contributors**:
 - Turner Klapheke
-- Max Wolffe
+- Max Wolff
 
 ## Installation & Execution
 
